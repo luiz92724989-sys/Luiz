@@ -18,12 +18,16 @@
 </p>
 
 ---
-
 ### 📈 Estatísticas do GitHub
 
+<!-- Opção 1: Cartão Dinâmico do GitHub Profile Trophy -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz92724989-sys&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-eight-vector.vercel.app/api/top-langs/?username=luiz92724989-sys&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz92724989-sys&theme=onedark" alt="Conquistas GitHub" />
+</p>
+
+<!-- Opção 2: Contador de Visualizações do Perfil -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luiz92724989-sys&color=blue&style=flat-square" alt="Visualizações do Perfil" />
 </p>
 
 ---
