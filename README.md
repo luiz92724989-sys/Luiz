@@ -20,9 +20,10 @@
 ---
 
 ### 📈 Estatísticas do GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz92724989-sys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz92724989-sys&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz92724989-sys&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-eight-vector.vercel.app/api/top-langs/?username=luiz92724989-sys&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
